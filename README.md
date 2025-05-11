@@ -29,13 +29,13 @@ A modern helpdesk ticketing system built using Django and Bootstrap. It provides
 - Built Django views and models to support ticket creation, updates, and user login  
 - Improved team collaboration and full-stack development skills
 
-🔗 [View Project Repository](#)
+🔗 [[View Project Repository](https://github.com/DevAbdallahSi/Python-Project)](#)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Abdallah GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![DevAbdallahSi GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
 ---
@@ -53,3 +53,7 @@ Ramallah, Palestine | 2025
 ---
 
 ## 🌐 Connect With
+🔗 [[View Project Repository]((https://www.linkedin.com/in/abdallah-salhi-142546291/))](#)
+🔗 abdallahalsalhi24@gmail.com
+
+
