@@ -35,8 +35,8 @@ A modern helpdesk ticketing system built using Django and Bootstrap. It provides
 
 ## 📈 GitHub Stats
 
-![DevAbdallahSi GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![DevAbdallahSi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAbdallahSi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbdallahSi&layout=compact&theme=tokyonight)
 
 ---
 
@@ -53,7 +53,7 @@ Ramallah, Palestine | 2025
 ---
 
 ## 🌐 Connect With
-🔗 [[View Project Repository]((https://www.linkedin.com/in/abdallah-salhi-142546291/))](#)
+🔗 [Linked in](https://www.linkedin.com/in/abdallah-salhi-142546291/)
 🔗 abdallahalsalhi24@gmail.com
 
 
