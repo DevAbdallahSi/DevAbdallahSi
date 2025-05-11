@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdallah (Yazan) Salhi
+# 👋 Hi, I'm Abdallah Salhi
 
 🎯 I'm a passionate full-stack developer in training with a strong interest in building impactful web applications. I bring hands-on experience with HTML, CSS, JavaScript, and Python, and have worked as a team lead on real-world projects using Django and Bootstrap.
 
@@ -23,13 +23,20 @@
 ### 🎟️ TicketFlow
 A modern helpdesk ticketing system built using Django and Bootstrap. It provides an intuitive UI and backend for managing support requests.
 
-**Role**: Team Lead & Frontend Developer  
+**Role**: user, department, admin
 **Contributions**:
 - Designed responsive UI with HTML, CSS, and Bootstrap  
 - Built Django views and models to support ticket creation, updates, and user login  
 - Improved team collaboration and full-stack development skills
 
 🔗 [View Project Repository](#)
+
+---
+
+## 📈 GitHub Stats
+
+![Abdallah GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
 ---
 
@@ -40,10 +47,9 @@ Ramallah, Palestine | 2025
 - +1200 coding hrs | Python, Java, MERN stack  
 - Team projects, algorithm practice, and hands-on software development experience
 
+**Chemistry & Biochemistry Minor – Birzeit University**  
+- Completed 2.5 years of study focused on analytical thinking and lab work
+
 ---
 
-## 📬 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-📫 Email: abdallahalsalhi24@gmail.com
-
+## 🌐 Connect With
