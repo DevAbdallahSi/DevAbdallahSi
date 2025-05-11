@@ -1,35 +1,49 @@
+# 👋 Hi, I'm Abdallah (Yazan) Salhi
 
-# Hi, I'm [Abdallah Salhi] 👋
-
-I'm a full-stack developer student currently attending a coding bootcamp.  
-I'm learning how to build websites and apps from scratch using:
-
-### *Languages & Tools I'm Learning*
-- HTML
-- CSS
-- JavaScript (just started)
-- Python
-- Django (coming soon!)
-- Git & GitHub
-
-### *My Learning Goals*
-- Understand how to build full web apps (front-end + back-end)
-- Work on real-world projects with my bootcamp team
-- Learn how to connect a website to a database
-- Build a portfolio by the end of the bootcamp
-
-### *Current Bootcamp Progress*
-- [x] HTML & CSS basics  
-- [x] JavaScript fundamentals  
-- [x] Python projects  
-- [x] Django and database integration  
-- [ ] Final group project
-
-### *Contact Me*
-If you want to collaborate or say hi:  
-[Abdallah.falt@gmail.com]  
-[Abdallah Salhi]
+🎯 I'm a passionate full-stack developer in training with a strong interest in building impactful web applications. I bring hands-on experience with HTML, CSS, JavaScript, and Python, and have worked as a team lead on real-world projects using Django and Bootstrap.
 
 ---
 
-> “Every pro was once an amateur. Every expert was once a beginner.”
+## 🚀 Skills & Technologies
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🛠️ Featured Project
+
+### 🎟️ TicketFlow
+A modern helpdesk ticketing system built using Django and Bootstrap. It provides an intuitive UI and backend for managing support requests.
+
+**Role**: Team Lead & Frontend Developer  
+**Contributions**:
+- Designed responsive UI with HTML, CSS, and Bootstrap  
+- Built Django views and models to support ticket creation, updates, and user login  
+- Improved team collaboration and full-stack development skills
+
+🔗 [View Project Repository](#)
+
+---
+
+## 📚 Education
+
+**Full-Stack Developer Certificate – Axsos Academy**  
+Ramallah, Palestine | 2025  
+- +1200 coding hrs | Python, Java, MERN stack  
+- Team projects, algorithm practice, and hands-on software development experience
+
+---
+
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+📫 Email: abdallahalsalhi24@gmail.com
+
