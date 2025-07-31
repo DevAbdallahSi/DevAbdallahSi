@@ -1,71 +1,74 @@
-# 👋 Hello! I'm Abdallah Salhi
+# 👋 Hey there! I'm **Abdallah Salhi**
 
-I'm a **full-stack developer** with a strong passion for crafting modern, impactful web applications. My journey began with Python and Django and has grown to include the powerful **MERN stack**, allowing me to develop robust, scalable solutions from the database to the UI.
-
-I've led real-world projects, contributed to collaborative development teams, and completed over **1200+ hours** of hands-on training, solving problems through clean, scalable code.
-
----
-
-## 💡 What I Work With
-
-**Languages & Frameworks**  
-- **Frontend**: HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind CSS  
-- **Backend**: Django, Node.js, Express.js, Python  
-- **Databases**: MongoDB, MySQL  
-
-**Tools & Technologies**  
-- Git & GitHub  
-- VS Code  
-- RESTful APIs  
-- MVC & MVT design patterns  
-- Agile collaboration & team leadership  
+💻 A **Full-Stack Web Developer** with a passion for building modern, user-friendly web applications that solve real-world problems.  
+🔥 Skilled in both **Django** and the **MERN Stack**, with over **1200+ hours** of hands-on experience from intensive coding, team collaboration, and real-world projects.
 
 ---
 
-## 🧩 Projects That Represent Me
+## 🚀 Tech Stack
 
-### 🎟️ TicketFlow – Helpdesk Ticketing System  
-**Stack**: Django, HTML, CSS, Bootstrap  
-A streamlined helpdesk system for users, departments, and administrators to manage support requests.
+### 🌐 Frontend  
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Key Highlights**  
-- Built responsive UI and clean UX for all user roles  
-- Implemented Django models, authentication, and views  
-- Strengthened backend logic and relational database management  
+### 🧠 Backend  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-🔗 [GitHub Repository](https://github.com/DevAbdallahSi/Python-Project)
-
----
-
-## 📚 My Learning Path
-
-### 🎓 Full-Stack Web Development – Axsos Academy  
-**Ramallah, Palestine | 2025**  
-> A 6-month intensive coding program covering:  
-> - Python, Django, Java  
-> - MongoDB, Express, React, Node.js (MERN)  
-> - REST APIs, Git, and test-driven development  
-
-### 🎓 Chemistry & Biochemistry – Birzeit University  
-> Completed 2.5 years focused on lab work, data analysis, and critical thinking.
+### 🗄️ Database & Tools  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📈 GitHub at a Glance
+## 🧩 Featured Project: **🎟️ TicketFlow**
+
+A helpdesk ticketing system built with **Django** and **Bootstrap**.  
+Helps users, departments, and admins manage and track support tickets efficiently.
+
+🔧 **Tech Used**: Django · HTML · CSS · Bootstrap  
+✅ **Highlights**:  
+- Responsive multi-role interface  
+- Django-based authentication and database models  
+- User ticket submission, assignment, and resolution system
+
+🔗 [Check the Repository →](https://github.com/DevAbdallahSi/Python-Project)
+
+---
+
+## 📚 Education
+
+🎓 **Full-Stack Developer Certificate** – Axsos Academy  
+📍 Ramallah, Palestine | 2025  
+- Focused on **Python, Java, MERN**, REST APIs  
+- Team projects, algorithms, deployment, and hands-on experience
+
+🔬 **Chemistry & Biochemistry Minor** – Birzeit University  
+- 2.5 years of analytical thinking and lab-based learning
+
+---
+
+## 📈 GitHub Insights
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAbdallahSi&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbdallahSi&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌍 Let's Connect
+## 🌍 Let’s Connect!
 
-I'm always open to collaboration, freelance opportunities, or simply sharing ideas!
-
-- 📧 Email: **abdallahalsalhi24@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdallah-salhi-142546291/)  
-- 🧑‍💻 [GitHub](https://github.com/DevAbdallahSi)
+💌 **Email**: abdallahalsalhi24@gmail.com  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/abdallah-salhi-142546291/)  
+💻 [**GitHub**](https://github.com/DevAbdallahSi)
 
 ---
 
-_“Code is not just about syntax. It’s about solving problems and building the future — one line at a time.”_
+> _“Code is not just about syntax. It’s about solving problems and building the future — one line at a time.”_
