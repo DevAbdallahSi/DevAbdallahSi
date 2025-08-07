@@ -22,7 +22,7 @@
 
 ## 🧩 Featured Projects
 
-### 🌍 Globe Aid  
+ 🌍 Globe Aid  
 A MERN-based platform offering cultural and emergency support for travelers, featuring a time bank system and AI voice agent integration similar to DataQueue’s solutions.  
 🔧 **Tech Used:** React.js · Node.js · MongoDB · AWS · AI Voice Agents  
 ✅ **Highlights:**  
@@ -44,18 +44,7 @@ Helps users, departments, and admins manage and track support tickets efficientl
 - Django-based authentication and database models  
 - User ticket submission, assignment, and resolution system
 
-🔗 [Check the Repository →](https://github.com/DevAbdallahSi/Python-Project)
-
----
-
-### 🛠️ Project Three *(Add project name here)*  
-Brief description of the project, what it does, and the main technologies used.  
-🔧 **Tech Used:** List the main tech stack  
-✅ **Highlights:**  
-- Key features or achievements  
-- Something unique or impactful
-
-🔗 [Check the Repository →](your-link-here)
+🔗 [Check the Repository →](https://github.com/DevAbdallahSi/TicketFlow)
 
 ---
 
