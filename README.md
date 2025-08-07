@@ -30,7 +30,7 @@ A MERN-based platform offering cultural and emergency support for travelers, fea
 - Deployed on AWS with scalable architecture  
 - Integrates AI voice agents to enhance user interaction
 
-🔗 [Check the Repository →](https://github.com/DevAbdallahSi/GlobeAid) *(replace with actual link if different)*
+🔗 [Check the Repository →](https://github.com/DevAbdallahSi/GlobeAid) 
 
 ---
 
